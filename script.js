@@ -1,3 +1,4 @@
+alert("External JavaScript file loaded!");
 'use strict';
 
 // modal variables
